@@ -1,5 +1,6 @@
 ---
 title: "IODS course project"
+author: JUSTIN RAJ ANTHONY
 output:
   html_document:
     theme: cosmo
